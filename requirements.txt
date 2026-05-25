@@ -1,6 +1,0 @@
-rebound
-reboundx
-numpy
-matplotlib
-scipy
-IPython
