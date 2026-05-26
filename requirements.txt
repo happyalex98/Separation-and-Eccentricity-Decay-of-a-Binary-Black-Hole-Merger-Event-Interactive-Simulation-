@@ -1,6 +1,7 @@
-streamlit
 rebound
 reboundx
 numpy
-scipy
 matplotlib
+scipy
+ipywidgets
+voila
