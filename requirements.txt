@@ -1,0 +1,6 @@
+streamlit
+rebound
+reboundx
+numpy
+scipy
+matplotlib
