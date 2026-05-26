@@ -1,0 +1,13 @@
+name: bbh-sim
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - rebound
+  - reboundx
+  - numpy
+  - scipy
+  - matplotlib
+  - ipywidgets
+  - voila
