@@ -1,7 +1,0 @@
-rebound
-reboundx
-numpy
-matplotlib
-scipy
-ipywidgets
-voila
